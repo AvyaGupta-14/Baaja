@@ -4,7 +4,7 @@ Its a music player, My own style music player. Developed in JAVA, used JLayer(ja
 I have added output of this project. Check That out. Peace.
 
 # Output
-![1](https://github.com/user-attachments/assets/ce468ed0-f3e1-455b-bdf1-81e233719c1c)
+![image](https://github.com/user-attachments/assets/13901244-dfcc-4452-9e6a-19fd5aaf8d8f)
 
 ![image](https://github.com/user-attachments/assets/3a3e74a6-84aa-4a37-b730-70d0f5207a09)
 
